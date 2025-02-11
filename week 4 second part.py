@@ -16,5 +16,3 @@ while not valid_input:
 
 bmi = int(weight)/(int(height)/100)**2
 print(f"Your BMI is {bmi}")
-
-h
